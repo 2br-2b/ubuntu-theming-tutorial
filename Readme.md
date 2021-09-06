@@ -32,7 +32,7 @@ Now, launch the Gnome Tweaks application. You'll see there's a lot you can custo
 
 Go to the Appearance tab. You may need to expand the window to see the left sidebar.
 
-![](./resources/1.png)
+![](https://ipfs.io/ipfs/QmYCjahaDRKfoVTBN4qbjJ1G9RULc5u6VYaGWh1cqYGMc9)
 
 You can now choose any of the built-in themes, mice, etc.!
 
@@ -56,7 +56,7 @@ First, find a theme you like. Themes can be found by browsing Gnome Looks (look 
 
 Create a folder `/home/username/.local/share/themes`. Unzip the folder into the themes directory:
 
-![](./resources/2.png)
+![](https://ipfs.io/ipfs/QmRjLSeveXRLN39s2pjY9ssjEPejH2B6sdW8xdPsihFH1W)
 
 Inside this folder, there should be (at the very least) an `index.theme` file.
 
@@ -68,7 +68,7 @@ First, find an icon theme you like. Icon packs can be found by browsing (look at
 
 Create a folder `/home/username/.local/share/icons`. Unzip the folder into the icons directory:
 
-![](./resources/3.png)
+![](https://ipfs.io/ipfs/QmYiz5xGX9qENbiDvu3yPikFZJvnkt46LCi9fXK828h4En)
 
 Inside this folder, there should be (at the very least) an `index.theme` file.
 
@@ -82,7 +82,7 @@ First, find an cursor theme you like. Themes can be found by browsing (look at C
 
 Create a folder `/home/username/.local/share/icons`. Unzip the folder into the icons directory:
 
-![](./resources/4.png)
+![](https://ipfs.io/ipfs/QmaasaaDmPCaKJKcgnBo4D4PGKsAyV4qevV3AAbZG8cYgw)
 
 Inside this folder, there should be (at the very least) an `index.theme` file.
 
@@ -94,7 +94,7 @@ First, find an sound theme you like. Honestly, I haven't bothered with a differe
 
 Create a folder `/home/username/.local/share/sounds`. Unzip the folder into the sounds directory:
 
-![](./resources/5.png)
+![](https://ipfs.io/ipfs/QmW4D6uamfvbmREaE8pmBzkcisGBc83WK2Spjp2LXeQqq6)
 
 Inside this folder, there should be (at the very least) an `index.theme` file.
 
@@ -106,11 +106,11 @@ If you change your theme, you may need to also find a background, icon theme, et
 
 My favorite theme is probably the variants of the Orchis theme:
 
-![](./resources/6.png)
+![](https://ipfs.io/ipfs/Qmawj1AVBgbq1eTCo6Y9TRMMMegHRmEw6k4D8AgCH3Ksqb)
 
-![](./resources/7.png)
+![](https://ipfs.io/ipfs/QmYNxXwmsoHMYygezANr8mP1gZV7LTMjW3mMk6beeumnLr)
 
-![](./resources/8.png)
+![](https://ipfs.io/ipfs/QmbCBXRFsxUsXfJfqrhvvBMdQGjDcefhXp8e6xPNbPwhL6)
 
 The [B00merang Team](https://b00merang.weebly.com/) has pretty good recreations of lots of OSs' themes (multiple versions of Windows, MacOS, Google, etc.). Check them out!
 
@@ -118,7 +118,7 @@ The [B00merang Team](https://b00merang.weebly.com/) has pretty good recreations 
 
 To further customize your desktop, check out some [Gnome Extensions](https://extensions.gnome.org/). These can be used to add all sorts of functionality to your desktop! The easiest way to add these to your system is by installing Gnome's browser extension:
 
-![](./resources/9.png)
+![](https://ipfs.io/ipfs/QmSno7HR8zjhjxFmRuTVHU9VMKfKbQ9ZK5eJhJpzZsDAxP)
 
 Some Gnome Extensions that I use regularly include:
 
@@ -129,3 +129,10 @@ Some Gnome Extensions that I use regularly include:
 - [Tiling assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 
 There's all sorts of cool things you can do! Bear in mind that this is software you're downloading from the internet, but most of it is open source, so you can check their source code if you like. The link will be posted on the download page.
+
+
+---
+
+All images on the Github Pages site powered by [IPFS](https://ipfs.io/)
+
+[<img src="https://ipfs.io/ipfs/QmUnLW4zb4zQML87Lp9mp1Roz52TrqHkwk6yDV67tURnPy" alt="IPFS Logo" width="200">](https://ipfs.io/)
